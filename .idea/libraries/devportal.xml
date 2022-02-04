@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="devportal">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/devportal.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
